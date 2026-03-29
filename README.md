@@ -28,9 +28,8 @@ Welcome to the official repository for the **PJPT: PHASE 4** modification. This 
 ---
 
 ## 🛠️ Requirements
-* **Game:** Poppy Playtime - Multiplayer (Steam version)
+* **Game:** PROJECT PLAYTIME (Steam version)
 * **OS:** Windows 10/11
-* **Python:** 3.x (If running from source)
 
 ## 📥 Installation (When Released)
 1. Download the `Phase4Installer.exe` from the **Releases** section.
