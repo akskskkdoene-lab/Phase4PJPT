@@ -5,6 +5,17 @@
       "Percentage": 5
     }
   ],
-  "SalesItems": [193, 100],
+  "SalesItems": [
+    {
+      "ItemId": 193,
+      "PricePlaycoins": 100,
+      "PriceTickets": 99
+    },
+    {
+      "ItemId": 100,
+      "PricePlaycoins": 50,
+      "PriceTickets": 20
+    }
+  ],
   "Bundle": 193
 }
