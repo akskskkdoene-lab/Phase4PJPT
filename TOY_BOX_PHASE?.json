@@ -1,0 +1,8 @@
+{
+  "Season": 4,
+  "Items": [
+    {"Id": 193, "Type": "Free", "Amount": 2},
+    {"Id": 100, "Type": "NoFree", "Amount": 2}
+  ],
+  "PremiumToyBox": true
+}
