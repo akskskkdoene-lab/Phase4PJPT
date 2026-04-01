@@ -4,5 +4,7 @@
   "SteamID": "12345679",
   "InventoryItems": [193, 100],
   "IsDev": false
+  "Playcoins": "12345679",
+  "Tickets": "12345679",
   "Banned?": false
 }
