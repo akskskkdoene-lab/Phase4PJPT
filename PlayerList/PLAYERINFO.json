@@ -1,7 +1,6 @@
 
 {
   "PlayerName": "Player",
-  "DescProfile": "Player",
   "SteamID": "0",
   "InventoryItems": [0, 0],
   "IsDev": false
