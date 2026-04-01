@@ -1,10 +1,10 @@
 
 {
   "PlayerName": "Player",
-  "SteamID": "12345679",
-  "InventoryItems": [193, 100],
+  "SteamID": "0",
+  "InventoryItems": [0, 0],
   "IsDev": false
-  "Playcoins": "12345679",
-  "Tickets": "12345679",
+  "Playcoins": "0",
+  "Tickets": "0",
   "Banned?": false
 }
