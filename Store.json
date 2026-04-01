@@ -1,0 +1,10 @@
+{
+  "DiscountItems": [
+    {
+      "ItemId": 193,
+      "Percentage": 5
+    }
+  ],
+  "SalesItems": [193, 100],
+  "Bundle": 193
+}
