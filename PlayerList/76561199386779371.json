@@ -5,6 +5,6 @@
   "IsDev": true,
   "Playcoins": 9999999,
   "Tickets": 9999999,
-  "Banned?": false,
+  "IsBanned": false,
   "ToyBoxLevel": 999999
 }
