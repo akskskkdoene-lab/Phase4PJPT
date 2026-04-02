@@ -3,8 +3,8 @@
   "SteamID": "76561199386779371",
   "InventoryItems": [1200, 193],
   "IsDev": true,
-  "Playcoins": 9999999,
-  "Tickets": 9999999,
+  "Playcoins": 9999,
+  "Tickets": 9999,
   "IsBanned": false,
-  "ToyBoxLevel": 999999
+  "ToyBoxLevel": 999
 }
