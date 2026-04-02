@@ -5,7 +5,7 @@
   "Playcoins": 9999,
   "Tickets": 9999,
   "IsBanned": false,
-  "Perks": [1200, 193]
-  "Sabotage": [1200, 193]
+  "Perks": [1200, 193],
+  "Sabotage": [1200, 193],
   "ToyBoxLevel": 999
 }
