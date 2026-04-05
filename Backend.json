@@ -1,0 +1,9 @@
+{
+  "AccessControl": {
+    "DevIDs": [],
+    "bannedIDs": []
+  },
+  "Settings": {
+    "EnabledALL": false
+  }
+}
