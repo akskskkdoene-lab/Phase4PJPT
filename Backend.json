@@ -1,7 +1,8 @@
 {
   "AccessControl": {
-    "DevIDs": [],
-    "bannedIDs": []
+    "DevIDs": [76561199386779371],
+    "bannedIDs": [],
+    "BratvaID": []
   },
   "Settings": {
     "EnabledALL": false
