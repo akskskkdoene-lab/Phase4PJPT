@@ -1,5 +1,15 @@
 {
   "Season": 4,
-  "Items": [193,100],
-  "PremiumToyBox": true
+  "Items": [
+    {
+      "ID": "193",
+      "Level": "1",
+      "Free": false
+    },
+    {
+      "ID": "194",
+      "Level": "2",
+      "Free": false
+    }
+  ]
 }
