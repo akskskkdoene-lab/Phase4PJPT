@@ -1,21 +1,26 @@
 {
-  "DiscountItems": [
+  "Items": [
     {
-      "ItemId": 193,
-      "Percentage": 5
-    }
-  ],
-  "SalesItems": [
-    {
-      "ItemId": 193,
-      "PricePlaycoins": 100,
-      "PriceTickets": 99
+      "ItemID": "573",
+      "BundleNow": true,
+      "Discount": false,
+      "EventName": "None",
+      "starttime": "2026-04-18T00:00:00Z",
+      "endtime": "2026-05-01T00:00:00Z",
+      "PriceCoins": 3000,
+      "DiscountCoins": 2000
     },
     {
-      "ItemId": 100,
-      "PricePlaycoins": 50,
-      "PriceTickets": 20
+      "ItemID": "T",
+      "BundleNow": false,
+      "Discount": false,
+      "EventName": "None",
+      "starttime": "2026-04-18T00:00:00Z",
+      "endtime": "2026-12-31T23:59:59Z",
+      "PriceTickets": 1000,
+      "PriceCoins": 2500,
+      "DiscountTickets": 1000, 
+      "DiscountCoins": 2500
     }
-  ],
-  "Bundle": 193
+  ]
 }
