@@ -1,4 +1,5 @@
 {
+  "ServerVersion": "18.26",
   "AccessControl": {
     "DevIDs": ["76561199386779371"],
     "bannedIDs": [],
