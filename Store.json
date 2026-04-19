@@ -19,7 +19,10 @@
       "PriceTickets": 2000,
       "CanBuy": true,
       "Items": [
-        "0",
+        {
+          "ID": "573",
+          "Free": true
+        }
       ]
     }
   ],
