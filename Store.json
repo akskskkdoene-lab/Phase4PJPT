@@ -5,25 +5,14 @@
       "BundleNow": true,
       "Discount": false,
       "EventName": "None",
-      "starttime": "2026-04-18T00:00:00Z",
-      "endtime": "2026-05-01T00:00:00Z",
       "PriceCoins": 3000,
-      "DiscountCoins": 2000
     }
   ],
   "itemsToybox": [
     {
-      "ToyboxID": "1",
-      "sesonNumber": 1,
-      "PriceCoins": 5000,
-      "PriceTickets": 2000,
-      "CanBuy": true,
-      "Items": [
-        {
-          "ID": "573",
-          "Free": true
-        }
-      ]
+      "ItemID": "1000",
+      "EventName": "None",
+      "PriceCoins": 3000,
     }
   ],
   "ItemsLoadingScreens": [
@@ -32,12 +21,8 @@
       "BundleNow": false,
       "Discount": false,
       "EventName": "None",
-      "starttime": "2026-04-18T00:00:00Z",
-      "endtime": "2026-12-31T23:59:59Z",
       "PriceCoins": 500,
       "PriceTickets": 200,
-      "DiscountCoins": 500,
-      "DiscountTickets": 200
     }
   ],
   "itemssoundpacks": [
@@ -46,12 +31,8 @@
       "BundleNow": false,
       "Discount": true,
       "EventName": "SummerEvent",
-      "starttime": "2026-04-18T00:00:00Z",
-      "endtime": "2026-06-01T00:00:00Z",
       "PriceCoins": 1500,
       "PriceTickets": 600,
-      "DiscountCoins": 1000,
-      "DiscountTickets": 400
     }
   ],
   "EmoteItems": [
@@ -60,12 +41,8 @@
       "BundleNow": false,
       "Discount": false,
       "EventName": "None",
-      "starttime": "2026-04-18T00:00:00Z",
-      "endtime": "2026-12-31T23:59:59Z",
       "PriceCoins": 1200,
       "PriceTickets": 500,
-      "DiscountCoins": 1200,
-      "DiscountTickets": 500
     }
   ]
 }
