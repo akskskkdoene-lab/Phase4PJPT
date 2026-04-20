@@ -1,15 +1,37 @@
 {
-  "Season": 4,
-  "Items": [
-    {
-      "ID": "193",
-      "Level": "1",
-      "Free": false
+  "PhaseCurrent": 4,
+  "Phases": {
+    "Phase1": {
+      "PhaseID": 1,
+      "Items": [
+        {
+          "ID": "193",
+          "Level": "1",
+          "Free": false
+        }
+      ]
     },
-    {
-      "ID": "194",
-      "Level": "2",
-      "Free": false
+    "Phase2": {
+      "PhaseID": 2,
+      "Items": [
+        {
+          "ID": "194",
+          "Level": "2",
+          "Free": false
+        }
+      ]
+    },
+    "Phase3": {
+      "PhaseID": 3,
+      "Items": []
+    },
+    "Phase4": {
+      "PhaseID": 4,
+      "Items": []
+    },
+    "Phase5": {
+      "PhaseID": 5,
+      "Items": []
     }
-  ]
+  }
 }
