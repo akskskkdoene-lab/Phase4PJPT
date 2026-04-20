@@ -1,7 +1,7 @@
 {
-  "PhaseCurrent": 4,
-  "Phases": {
-    "Phase1": {
+  "Season": 4,
+  "Phases": [
+    {
       "PhaseID": 1,
       "Items": [
         {
@@ -11,7 +11,7 @@
         }
       ]
     },
-    "Phase2": {
+    {
       "PhaseID": 2,
       "Items": [
         {
@@ -21,17 +21,17 @@
         }
       ]
     },
-    "Phase3": {
+    {
       "PhaseID": 3,
       "Items": []
     },
-    "Phase4": {
+    {
       "PhaseID": 4,
       "Items": []
     },
-    "Phase5": {
+    {
       "PhaseID": 5,
       "Items": []
     }
-  }
+  ]
 }
