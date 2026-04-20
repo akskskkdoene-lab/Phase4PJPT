@@ -1,0 +1,20 @@
+{
+  "DisplayName": "Phase 1",
+  "ItemID": 20,
+  "MaxLevel": 20,
+  "StartToLevel": 1,
+  "hasToyBoxPlus?": false,
+  "hasPremiumPlayertoFree?": false,
+  "Items": [
+    {
+      "ID": "193",
+      "Level": "1",
+      "Free": false
+    },
+    {
+      "ID": "194",
+      "Level": "2",
+      "Free": false
+    }
+  ]
+}
