@@ -5,14 +5,14 @@
       "BundleNow": true,
       "Discount": false,
       "EventName": "None",
-      "PriceCoins": 3000,
+      "PriceCoins": 3000
     }
   ],
   "itemsToybox": [
     {
       "ItemID": "1000",
       "EventName": "None",
-      "PriceCoins": 3000,
+      "PriceCoins": 3000
     }
   ],
   "ItemsLoadingScreens": [
@@ -22,7 +22,7 @@
       "Discount": false,
       "EventName": "None",
       "PriceCoins": 500,
-      "PriceTickets": 200,
+      "PriceTickets": 200
     }
   ],
   "itemssoundpacks": [
@@ -32,7 +32,7 @@
       "Discount": true,
       "EventName": "SummerEvent",
       "PriceCoins": 1500,
-      "PriceTickets": 600,
+      "PriceTickets": 600
     }
   ],
   "EmoteItems": [
@@ -42,7 +42,7 @@
       "Discount": false,
       "EventName": "None",
       "PriceCoins": 1200,
-      "PriceTickets": 500,
+      "PriceTickets": 500
     }
   ]
 }
