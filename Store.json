@@ -1,8 +1,8 @@
 {
   "Items": [
     {
-      "ItemID": "573",
-      "BundleNow": true,
+      "ItemID": 573,
+      "Bundle?": true,
       "Discount": false,
       "EventName": "None",
       "PriceCoins": 3000
@@ -10,15 +10,15 @@
   ],
   "itemsToybox": [
     {
-      "ItemID": "1000",
+      "ItemID": 1000,
       "EventName": "None",
       "PriceCoins": 3000
     }
   ],
   "ItemsLoadingScreens": [
     {
-      "ItemID": "0",
-      "BundleNow": false,
+      "ItemID": 0,
+      "Bundle?": false,
       "Discount": false,
       "EventName": "None",
       "PriceCoins": 500,
@@ -27,8 +27,8 @@
   ],
   "itemssoundpacks": [
     {
-      "ItemID": "SP_01",
-      "BundleNow": false,
+      "ItemID": 0,
+      "Bundle?": false,
       "Discount": true,
       "EventName": "SummerEvent",
       "PriceCoins": 1500,
@@ -37,8 +37,8 @@
   ],
   "EmoteItems": [
     {
-      "ItemID": "0",
-      "BundleNow": false,
+      "ItemID": 0,
+      "Bundle?": false,
       "Discount": false,
       "EventName": "None",
       "PriceCoins": 1200,
