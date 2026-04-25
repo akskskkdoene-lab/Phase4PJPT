@@ -5,31 +5,15 @@
       "Bundle?": true,
       "Discount": false,
       "EventName": "None",
-      "PriceCoins": 3000
-    },
-    {
+      "PriceCoins": 1500
+      },
+      {
       "ItemID": 193,
       "Bundle?": false,
       "Discount": false,
       "EventName": "None",
-      "PriceCoins": 900,
-      "PriceTickets": 1000000
-    },
-    {
-      "ItemID": 556,
-      "Bundle?": false,
-      "Discount": false,
-      "EventName": "None",
-      "PriceCoins": 400,
-      "PriceTickets": 3000
-      },
-      {
-      "ItemID": 596,
-      "Bundle?": false,
-      "Discount": false,
-      "EventName": "None",
-      "PriceCoins": 100,
-      "PriceTickets": 200
+      "PriceCoins": 500,
+      "PriceTickets": 90000
       },
       {
       "ItemID": 466,
