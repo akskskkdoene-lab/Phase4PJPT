@@ -8,8 +8,8 @@
       "PriceCoins": 1500
       },
       {
-      "ItemID": 193,
-      "Bundle?": false,
+      "ItemID": 1005,
+      "Bundle?": true,
       "Discount": false,
       "EventName": "None",
       "PriceCoins": 500,
