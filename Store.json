@@ -30,6 +30,15 @@
       "EventName": "None",
       "PriceCoins": 100,
       "PriceTickets": 200
+      },
+      {
+      "ItemID": 466,
+      "Bundle?": false,
+      "OnlyCoins": true,
+      "Discount": false,
+      "EventName": "None",
+      "PriceCoins": 100,
+      "PriceTickets": 200
     }
   ],
   "itemsToybox": [
