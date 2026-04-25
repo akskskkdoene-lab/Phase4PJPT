@@ -281,6 +281,11 @@
       "BundleContent": [ 476, 477, 478, 479, 480, 551, 571, 630 ]
     },
     {
+      "BundleID": 1005,
+      "bOutfit": false,
+      "BundleContent": [ 467, 460, 459, 457, 456, 466, 458 ]
+    },
+    {
       "BundleID": 687,
       "bOutfit": false,
       "BundleContent": [ 481, 450, 469 ]
